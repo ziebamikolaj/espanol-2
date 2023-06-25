@@ -170,7 +170,137 @@
   {
     "pol": "rozległy",
     "es": "extenso"
+  },
+  {
+    "pol": "głębokie jezioro",
+    "es": "un lago profundo"
+  },
+  {
+    "pol": "wulkan robiący wrażenie",
+    "es:": "un volcán impresionante"
+  },
+  {
+    "pol": "rozległą pustynia",
+    "es:": "un desierto extenso"
+  },
+  {
+    "pol": "zimne lodowce",
+    "es:": "unas glaciares frios"
+  },
+  {
+    "pol": "zielona dżungla",
+    "es:": "una selva verde"
+  },
+  {
+    "pol": "umiarkowany klimat",
+    "es:": "un clima templado"
+  },
+  {
+    "pol": "mili ludzie",
+    "es:": "una gente amable"
+  },
+  {
+    "pol": "kawiarnie na zewnątrz",
+    "es:": "unas cafés al aire libre"
+  },
+  {
+    "pol": "biznes",
+    "es:": "un negocio"
+  },
+  {
+    "pol": "handel",
+    "es:": "un comercio"
+  },
+  {
+    "pol": "bezpieczeństwo",
+    "es:": "una seguridad"
+  },
+  {
+    "pol": "inwestycje",
+    "es:": "unas inversiones"
+  },
+  {
+    "pol": "kredyty bankowe",
+    "es:": "unos créditos bancarios"
+  },
+  {
+    "pol": "umowa handlowa pomiędzy krajami",
+    "es:": "un acuerdo comercial entre los paises"
+  },
+  {
+    "pol": "otrzymać pozwolenie",
+    "es:": "obtener un permiso"
+  },
+  {
+    "pol": "waluta",
+    "es": "moneda"
+  },
+  {
+    "pol": "podłoga",
+    "es": "piso"
+  },
+  {
+    "pol": "ściana",
+    "es": "pared"
+  },
+  {
+    "pol": "okno",
+    "es": "ventana"
+  },
+  {
+    "pol": "Jaka jest dzisiaj pogoda?",
+    "es": "¿Qué tiempo hace hoy?"
+  },
+  {
+    "pol": "Jesienią jest brzydka pogoda, pada deszcz, niebo jest zachmurzone i są mgły.",
+    "es": "En otoño hace mal tiempo, llueve, el cielo está nublado y hay nieblas."
+  },
+  {
+    "pol": "Zimą pada śnieg, jest zimno i wieje wiatr.",
+    "es": "En invierno nieva, hace frío y hace viento."
+  },
+  {
+    "pol": "Wiosną są burze i jest ciepło.",
+    "es": "En primavera hay tormentas y hace calor."
+  },
+  {
+    "pol": "Latem świeci słońce i jest ładna pogoda.",
+    "es": "En verano, hace sol y hace buen tiempo."
+  },
+  {
+    "pol": "Na południu są wysokie góry, a na północy są piękne plaże.",
+    "es": "En el sur hay unas montañas altas y en el norte hay unas playas bonitas."
+  },
+  {
+    "pol": "W Polsce jest dużo jezior i rzek.",
+    "es": "En Polonia hay muchos lagos y ríos."
+  },
+  {
+    "pol": "Ebro jest najdłuższą rzeką w Hiszpanii.",
+    "es": "El Ebro es el río más largo de España."
+  },
+  {
+    "pol": "Jaka jest waluta w Peru?",
+    "es": "¿Cuál es la moneda de Perú?"
+  },
+  {
+    "pol": "Jaka jest stolica Kolumbii?",
+    "es": "¿Cuál es la capital de Colombia?"
+  },
+  {
+    "pol": "Ilu mieszkańców ma Costa Rica?",
+    "es": "¿Cuántos habitantes tiene Costa Rica?"
+  },
+  {
+    "pol": "Telefon jest na prawo od komputera.",
+    "es": "El teléfono está a la derecha del ordenador."
+  },
+  {
+    "pol": "Myszka do komputera jest przed drukarką.",
+    "es": "El ratón del ordenador está delante de la impresora."
+  },
+  {
+    "pol": "Krzesło jest przed biurkiem.",
+    "es": "La silla está delante de la mesa."
   }
-
-
 ]
